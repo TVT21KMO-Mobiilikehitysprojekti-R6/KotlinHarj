@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "180064312442",
+    "firebase_url": "https://realtimedatabasekotlin-48a2b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "realtimedatabasekotlin-48a2b",
+    "storage_bucket": "realtimedatabasekotlin-48a2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180064312442:android:f9746d23e2929c3661afc3",
+        "android_client_info": {
+          "package_name": "com.example.kotlinprkl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180064312442-hoq9q2o1kj2ce29ohnevsv5313encig2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97is1Exn5XxPgtJfdhIo_IULveadRME0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180064312442-hoq9q2o1kj2ce29ohnevsv5313encig2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180064312442:android:1b77473a34eafbe261afc3",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180064312442-hoq9q2o1kj2ce29ohnevsv5313encig2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97is1Exn5XxPgtJfdhIo_IULveadRME0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180064312442-hoq9q2o1kj2ce29ohnevsv5313encig2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
